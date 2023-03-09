@@ -1,3 +1,6 @@
-//NOT lógico (!): Devuelve el valor opuesto a la expresión dada. 
-console.log(!false) // Devuelve true
-console.log(!true )// Devuelve false
+//Los operadores lógicos se pueden utilizar para combinar múltiples expresiones booleanas y formar una expresión booleana más compleja.
+var edad = 20;
+var tieneLicencia = true;
+if (edad >= 18 && tieneLicencia) {
+  console.log("Puede conducir");
+}
