@@ -1,3 +1,3 @@
-//AND lógico (&&): Devuelve verdadero si ambas expresiones son verdaderas. 
-console.log(true && true )// Devuelve true
-console.log(true && false) // Devuelve false
+//OR lógico (||): Devuelve verdadero si al menos una de las expresiones es verdadera.
+console.log(true || false )// Devuelve true
+console.log(false || false) // Devuelve false
