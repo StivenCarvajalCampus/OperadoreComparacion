@@ -1,3 +1,3 @@
-//OR lógico (||): Devuelve verdadero si al menos una de las expresiones es verdadera.
-console.log(true || false )// Devuelve true
-console.log(false || false) // Devuelve false
+//NOT lógico (!): Devuelve el valor opuesto a la expresión dada. 
+console.log(!false) // Devuelve true
+console.log(!true )// Devuelve false
