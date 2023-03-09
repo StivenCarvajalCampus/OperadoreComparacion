@@ -1,3 +1,2 @@
-//Igualdad estricta (===): Compara si dos valores son iguales y del mismo tipo. 
-estricta= 5 === "5"//devuelve false
-console.log(estricta)
+//Desigualdad (!=): Compara si dos valores no son iguales sin tener en cuenta su tipo. Por ejemplo:
+console.log (5 != "6" )// Devuelve true 
